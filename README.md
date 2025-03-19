@@ -6,7 +6,7 @@
   </a>
 </p>
 
-![VISION E INTELIGENCIA ARTIFICIAL](https://res.cloudinary.com/dm2vlcipm/image/upload/v1740449754/GITHUB_pudtsa.png)
+![JHAIR DEV](https://res.cloudinary.com/dm2vlcipm/image/upload/v1740454540/GITHUB_bzpxps.png)
 
 [![tiktok](https://img.shields.io/static/v1?label=&message=tiktok&color=ff0050&logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@jhair_jjaa)
 [![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/jheyson_jhair_aa/)
